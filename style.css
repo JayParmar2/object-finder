@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(red 0%, rgb(255, 251, 0) 100%);
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#object_name{
+    width: 200px;
+}
+#start
+{
+font-size: 20px;
+margin-top: 10px;
+}
+canvas{
+    border:2px solid wheat;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:moccasin;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 2;
+    
+}
